@@ -1,0 +1,21 @@
+.header{
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+.custom-link 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-link
+{
+    text-decoration: none;
+    margin-right: 30px;
+}
+ 
